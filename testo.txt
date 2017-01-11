@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Il mio primo file 2
+=======
+Il mio primo file
+Modifica!
+>>>>>>> testramo
